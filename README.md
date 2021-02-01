@@ -24,3 +24,13 @@ The program can be opened by running the .exe located in the release folder in t
   The primary software used is Visual studio and OpenGL. The language C++ was used as this is one of the primary languages used for OpenGL rendering. Inside of OpenGL libraries such as: Glew, Freeglut, Glut, glm and glad were used throughout this project.
 
 # Link to developer walkthough and images
+
+**Youtube video link of developer walkthrough and pitch**
+
+![Screenshot of gameplay 1](https://imgur.com/zzkd28U)
+![Screenshot of gameplay 2](https://imgur.com/jDEsMtC)
+![Screenshot of gameplay 3](https://imgur.com/bORIuOC)
+  
+![Gif of gameplay 1](https://imgur.com/yH5TuYm)
+![Gif of gameplay 2](https://imgur.com/uubzoSb)
+![Gif of gameplay 3](https://imgur.com/YRwTfUN)
