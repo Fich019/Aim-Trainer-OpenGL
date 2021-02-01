@@ -26,7 +26,7 @@ The program can be opened by running the .exe located in the release folder in t
 
 # Link to developer walkthough and images
 
-**Youtube video link of developer walkthrough and pitch**
+[**Youtube video link of developer walkthrough and pitch**](https://www.youtube.com/watch?v=RzFBgkkDAlQ&feature=youtu.be)
 
 ![Screenshot of gameplay 1](https://i.imgur.com/zzkd28U.png)
 ![Screenshot of gameplay 2](https://i.imgur.com/jDEsMtC.png)
