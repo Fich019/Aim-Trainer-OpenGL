@@ -35,3 +35,7 @@ The program can be opened by running the .exe located in the release folder in t
 ![Gif of gameplay 1](https://i.imgur.com/yH5TuYm.gif)
 ![Gif of gameplay 2](https://i.imgur.com/uubzoSb.gif)
 ![Gif of gameplay 3](https://i.imgur.com/YRwTfUN.gif)
+
+# Resourses used
+
+[**LearnOpenGL Camera tutorial**](https://learnopengl.com/Getting-started/Camera)
