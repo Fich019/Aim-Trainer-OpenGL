@@ -6,7 +6,6 @@ This repo will contain the projects files for my aim trainer designed and built 
 # User Interactions
 The user interacts with software by using mouse and keyboard controls.
 **Controls:**
---------------
 **W, A, S, D** - Move the player around the scene
 **Mouse Look** - Alows the user to look around inside of the scene
 **Left Mouse Button** - Lets the user interact and "shoot" at the targets in the scene
