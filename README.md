@@ -27,10 +27,10 @@ The program can be opened by running the .exe located in the release folder in t
 
 **Youtube video link of developer walkthrough and pitch**
 
-![Screenshot of gameplay 1](https://imgur.com/zzkd28U)
-![Screenshot of gameplay 2](https://imgur.com/jDEsMtC)
-![Screenshot of gameplay 3](https://imgur.com/bORIuOC)
+![Screenshot of gameplay 1](https://i.imgur.com/zzkd28U.png)
+![Screenshot of gameplay 2](https://i.imgur.com/jDEsMtC.png)
+![Screenshot of gameplay 3](https://i.imgur.com/bORIuOC.png)
   
-![Gif of gameplay 1](https://imgur.com/yH5TuYm)
-![Gif of gameplay 2](https://imgur.com/uubzoSb)
-![Gif of gameplay 3](https://imgur.com/YRwTfUN)
+![Gif of gameplay 1](https://i.imgur.com/yH5TuYm.gif)
+![Gif of gameplay 2](https://i.imgur.com/uubzoSb.gif)
+![Gif of gameplay 3](https://i.imgur.com/YRwTfUN.gif)
