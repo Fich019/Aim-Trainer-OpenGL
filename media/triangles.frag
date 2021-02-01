@@ -1,14 +1,11 @@
-#version 450 core
+#version 330 core
+uniform vec3 objectColor;
+out vec4 FragColor;
 
-out vec4 fColor;
-in vec4 fragColour;
-in vec2 TexCoord;
 
-uniform sampler2D ourTexture;
+
 
 void main()
 {
-    //fColor = vec4(0.5, 0.4, 0.8, 1.0);
-	fColor = texture(ourTexture, TexCoord) * fragColour;
-	
+    FragColor = vec4(objectColor, 1.0); // set alle 4 vector values to 1.0
 }

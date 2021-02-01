@@ -161,11 +161,16 @@
     <ClCompile Include="Project.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="glad.h" />
     <ClInclude Include="LoadShaders.h" />
+    <ClInclude Include="Shaders.h" />
     <ClInclude Include="stb_image.h" />
     <ClInclude Include="Project.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="media\HUD.frag" />
+    <None Include="media\HUD.vert" />
     <None Include="media\triangles.frag" />
     <None Include="media\triangles.vert" />
     <None Include="packages.config" />
