@@ -15,18 +15,19 @@ using namespace glm;
 const int SRC_width = 16 * 50;
 const int SRC_height = 9 * 50;
 
-
+//Camera variables
 Camera camera(glm::vec3(0.0f, 0.0f, 3.0f));
 float lastX = SRC_width / 2.0f;
 float lastY = SRC_height / 2.0f;
 bool firstMouse = true;
 
-
+//Pre-declared spawn point for the target.
 vec3 spawnpoint = vec3(0.0f, 0.15f, -14.8f);
 
 
 float deltaTime = 0.0f;	// time between current frame and last frame
 float lastFrame = 0.0f;
+
 
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
@@ -386,12 +387,15 @@ void spawnWallBack(Shader& shade) {
     glGenBuffers(1, &EBO);
     glBindVertexArray(VAO);
 
+    //Binds the Vertex Array Object first, it then binds and sets vertex buffers. 
+    //Finally, the vertex attributes are then configured.
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
 
     glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
     glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
 
+    //Position attributes
     glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);
     glEnableVertexAttribArray(0);
 
